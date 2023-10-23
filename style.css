@@ -90,7 +90,7 @@ img {
    background-position: center top;
 }
 #home {
-   background-image:url(../images/main-bg.png);
+   background-image:url(main-bg.png);
    min-height:100vh;
 }
 #home .page-title{
