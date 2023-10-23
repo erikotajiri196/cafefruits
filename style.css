@@ -98,7 +98,7 @@ img {
 }
 /*news*/
 #news {
-   background-image: url(news-bg.jpg);
+   background-image: url("https://github.com/erikotajiri196/cafehruits/blob/main/news-bg.jpg?raw=true");
    height: 440px;
    margin-bottom: 40px;
 }
