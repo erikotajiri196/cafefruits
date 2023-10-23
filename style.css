@@ -211,7 +211,7 @@ aside p{
 
  /*MENU*/
  #menu{
-   background-image: url(../images/menu-bg.png);
+   background-image: url(menu-bg.png);
    min-height: 70vh;
  }
  .menu-content{
@@ -244,7 +244,7 @@ aside p{
 /*CONTACT*/
 
 #contact{
-   background-image: url(../images/contact-bg.jpg);
+   background-image: url(contact-bg.jpg);
    min-height: 100vh ;
 }
 
