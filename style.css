@@ -21,7 +21,7 @@ img {
  /*HEADER*/
  .logo {
    width: 210px;
-   margin-top: 0px;
+   margin-top: 18px;
 }
 .main-nav {
    display: flex;
