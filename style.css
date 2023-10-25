@@ -345,10 +345,15 @@ iframe {
       flex-direction: column;
       align-items:center;
    }
+   
 
    /*HOME*/
    .home-content{
       margin-top:20%;
+   }
+   .home-content p{
+      margin: 0 0 30px;
+      font-size:large;
    }
    /*NEWS*/
    .news-contents{
