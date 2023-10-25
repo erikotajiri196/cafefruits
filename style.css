@@ -376,6 +376,7 @@ iframe {
       width: 70px;
       height: 70px;
       font-size: 1rem;
+      padding-top: 10px;
    }
    .post-date span{
       font-size: 0.875rem;
